@@ -1,7 +1,6 @@
-# demo
+# This repository cotains demo codes of my personal studies
 
-some description
 
-## Second header
+## I'm new to git and version control so allow me to explore
 
-watch some tutorials online
+
